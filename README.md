@@ -59,7 +59,7 @@ author = {},
 
 title = {shubhes/NavicEngine},
 
-howpublished = {\url{https://github.com/shubhes/NavicEngine}},
+howpublished = {\url{https://github.com/shubhes/ProgEngine}},
 
 month = {},
 
