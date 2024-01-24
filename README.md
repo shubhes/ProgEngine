@@ -1,6 +1,6 @@
 # ProgEngine
 
-Welcome to the Diesel Engine Fault Prognosis Dataset repository- ProgEngine! This repository contains experimental data collected from an inline 6-cylinder Navistar production DT diesel engine for the purpose of fault diagnosis and performance analysis. The dataset provides valuable insights into the behavior of the engine under various operating conditions and simulated faults in the fuel injector and injection system.
+Welcome to the Diesel Engine Fault Prognosis Dataset repository- ProgEngine! This repository contains experimental data collected from an inline 6-cylinder Navistar production DT diesel engine for the purpose of fault prognois. The dataset provides valuable insights into the behavior of the engine under various operating conditions and simulated time progressive fault in the fuel injector and injection system.
 
 Table of Contents
 Experimental Setup
