@@ -42,11 +42,11 @@ processed_PUMA.zip: Zipped folder containing PUMA data.
 INCA files: INCA files are the ones with 'INCA_' prefix attached.
 
 Usage
-Researchers and practitioners in the field of engine diagnostics and fault analysis can utilize this dataset for various purposes, including:
+Researchers and practitioners in the field of engine prognostics can utilize this dataset for various purposes, including:
 
-*Developing and testing fault detection algorithms
+*Developing and testing fault prrognosis algorithms
 
-*Validating and calibrating diagnostic models
+*Validating and calibrating prognostics models
 
 *Investigating engine behavior under different operating conditions
 
